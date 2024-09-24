@@ -32,7 +32,6 @@ This project enables speech-to-text functionality, allowing you to speak and con
 
 # Building for Production
 To create a production build of the app and serve it, run
-
     ```bash
     npm run build
     npm run preview
